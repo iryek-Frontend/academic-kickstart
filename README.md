@@ -6,6 +6,8 @@
 
 **Academic Kickstart** provides a minimal template to kickstart your new website.
 
+**Test**
+
 - 👉 [**Get Started**](#install)
 - 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
 - 💬 [Chat with the **Academic community**](https://spectrum.chat/academic) or [**Hugo community**](https://discourse.gohugo.io)
