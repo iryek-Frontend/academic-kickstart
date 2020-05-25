@@ -11,7 +11,8 @@
 #   Browse user installed themes in `data/themes/`
 #theme = "minimal"
 #theme = "dark"
-theme = "forest"
+#theme = "forest"
+theme = "apogee"
 
 
 
